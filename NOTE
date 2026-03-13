@@ -1,3 +1,13 @@
 It is used to fetch files from github:
 
 git pull origin
+
+Permission:
+Directories (folders): Set to 755. 
+Files set to 644
+
+check status:
+
+git status
+git remote -v
+
